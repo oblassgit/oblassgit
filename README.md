@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Oliver</h1>
+<h3 align="center">Development Apprentice at United Internet</h3>
 
-<!--
-**oblassgit/oblassgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About me:
+- I am currently in my 2nd year at United Internet.
+- Learning Mobile Development with Kotlin and Android Studio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+
+<div>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"   title="Android Studio" alt="Android Studio" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" width="40" height="40"/>
+   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Confluence" width="40" height="40"/>
+</div>
+
+---
+
+<h3 align="left">:fire: My Stats:</h3>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oblassgit&show_icons=true&theme=dark&locale=en&layout=compact" alt="oblassgit" /></p>
