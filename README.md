@@ -26,4 +26,4 @@
 <h3 align="left">:fire: My Stats:</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oblassgit&show_icons=true&theme=dark&locale=en&layout=compact" alt="oblassgit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblassgit&layout=compact&theme=dark" alt="oblassgit" /></p>
