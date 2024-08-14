@@ -4,7 +4,7 @@
 ---
 ### About me:
 - I am currently in my 3rd year at United Internet.
-- Learning Mobile Development with Kotlin and Android Studio.
+- Learning Mobile Development (iOS and Android)
 
 ---
 
