@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="left">:fire: My Stats:</h3>
+<h3 align="left">My Stats:</h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblassgit&layout=compact&theme=dark" alt="oblassgit" /></p>
