@@ -20,6 +20,11 @@
    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Confluence" width="40" height="40"/>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" width="40" height="40"/>
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" width="40" height="40"/>
+
+
+  
 
     
 </div>
